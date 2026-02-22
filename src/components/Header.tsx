@@ -20,7 +20,7 @@ export function Header() {
           className="callBtn"
           href="tel:+16623526259"
         >
-          Call (662) 352-6259
+          Call
         </a>
       </div>
     </header>
