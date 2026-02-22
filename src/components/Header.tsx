@@ -16,7 +16,12 @@ export function Header() {
           <a href="#contact">Contact</a>
         </nav>
 
-        <a className="callBtn" href="tel:+1XXXXXXXXXX">Call</a>
+        <a
+          className="callBtn"
+          href="tel:+16623526259"
+        >
+          Call (662) 352-6259
+        </a>
       </div>
     </header>
   );
